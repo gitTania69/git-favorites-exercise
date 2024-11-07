@@ -6,3 +6,5 @@ fruits
 Amadeus
 The Fifth Element
 the Caribian Pirates
+-- PLACES
+BULGARIA
